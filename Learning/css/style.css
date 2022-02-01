@@ -1,0 +1,14 @@
+h1 {
+	color:green;
+	font:verdana;
+}
+p {
+	font:Arial;
+	font-size:50;
+	
+}
+
+div {
+	border-width:3;
+	border-color:blue;
+}

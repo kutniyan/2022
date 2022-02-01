@@ -1,0 +1,40 @@
+a {
+    
+    padding:5px;
+    text-decoration: none;
+    color:rgb(54, 54, 54);
+    font: 14px arial, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align: right;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 40%;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid darkgray;
+    margin: 20px;
+}
+
+input[type="text"]:hover, input[type="text"]:focus {
+    box-shadow: 0 0 1px 1px lightgrey;
+    outline: none;
+}
+
+#img {
+    text-align: center;
+}
+ 
+h1 {
+    color: red;
+}
